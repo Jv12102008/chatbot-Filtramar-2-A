@@ -4,6 +4,7 @@ const chatBox = document.getElementById("chat-box");
 const respostas = {
     // O projeto
   "filtramar": "O FiltraMar é um sistema de filtragem que impede que resíduos sólidos cheguem ao mar. Ele usa peneiras, areia e cascalho para reter o lixo.",
+  "projeto": "O FiltraMar é um sistema de filtragem que impede que resíduos sólidos cheguem ao mar. Ele usa peneiras, areia e cascalho para reter o lixo.",
   // como ele funciona
   "funciona": "O sistema é composto por 3 peneiras de diferentes espessuras, intercaladas com areia e cascalho. Além disso, possui sensores de peso que avisam quando a peneira precisa ser trocada.",
   "função": "O sistema é composto por 3 peneiras de diferentes espessuras, intercaladas com areia e cascalho. Além disso, possui sensores de peso que avisam quando a peneira precisa ser trocada.",
